@@ -1,7 +1,7 @@
 # Midterm Sprint - Java
-# *(Pharmacy Management System)*
-# Author: Harini Manohar 
-# Dates: Feb 16 - Mar 2, 2025 
+## *(Pharmacy Management System)*
+### Author: Harini Manohar 
+### Dates: Feb 16 - Mar 2, 2025 
 
 ## 📖 User Documentation
 [Read the User Documentation](docs/UserDocumentation.md)
